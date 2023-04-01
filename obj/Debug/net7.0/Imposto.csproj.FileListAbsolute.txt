@@ -1,0 +1,15 @@
+C:\Udemy\Imposto\bin\Debug\net7.0\Imposto.exe
+C:\Udemy\Imposto\bin\Debug\net7.0\Imposto.deps.json
+C:\Udemy\Imposto\bin\Debug\net7.0\Imposto.runtimeconfig.json
+C:\Udemy\Imposto\bin\Debug\net7.0\Imposto.dll
+C:\Udemy\Imposto\bin\Debug\net7.0\Imposto.pdb
+C:\Udemy\Imposto\obj\Debug\net7.0\Imposto.csproj.AssemblyReference.cache
+C:\Udemy\Imposto\obj\Debug\net7.0\Imposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\Imposto\obj\Debug\net7.0\Imposto.AssemblyInfoInputs.cache
+C:\Udemy\Imposto\obj\Debug\net7.0\Imposto.AssemblyInfo.cs
+C:\Udemy\Imposto\obj\Debug\net7.0\Imposto.csproj.CoreCompileInputs.cache
+C:\Udemy\Imposto\obj\Debug\net7.0\Imposto.dll
+C:\Udemy\Imposto\obj\Debug\net7.0\refint\Imposto.dll
+C:\Udemy\Imposto\obj\Debug\net7.0\Imposto.pdb
+C:\Udemy\Imposto\obj\Debug\net7.0\Imposto.genruntimeconfig.cache
+C:\Udemy\Imposto\obj\Debug\net7.0\ref\Imposto.dll
